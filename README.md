@@ -4,7 +4,8 @@
 # 개발기간
 # 개발환경
 # ERD
-![image](https://github.com/user-attachments/assets/5e5678a9-5bf8-4b5e-bdf0-4d1425b4cb9c)
+![image](https://github.com/user-attachments/assets/7f38a5d9-c322-49a1-ac9c-d80feb73c98f)
+
 # 설치 및 실행방법
 - pip install -r requirements.txt
 - .env 확인
