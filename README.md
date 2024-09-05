@@ -21,4 +21,5 @@ DB : SQlite
 - class내에 permission_classes를 설정할때, GET과 POST 함수를 분리해서 permission을 주지 못하는 이슈
 - 자세한건 주소 참고: https://zhelddustmq.tistory.com/129
 # 기능 상세
+![image](https://github.com/user-attachments/assets/f25ac25c-7b66-4ad6-8199-24758ab1c1e0)
 
