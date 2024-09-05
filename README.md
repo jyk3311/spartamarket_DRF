@@ -6,7 +6,10 @@
 Python : Django DRF
 DB : SQlite
 # ERD
-![image](https://github.com/user-attachments/assets/7f38a5d9-c322-49a1-ac9c-d80feb73c98f)
+![image](https://github.com/user-attachments/assets/a911c441-c2ae-493c-9eb7-08ff54a3fd0c)
+![image](https://github.com/user-attachments/assets/dd391e1e-80a2-478a-b12a-20f98ccb3a20)
+![image](https://github.com/user-attachments/assets/d08f75f1-3dbe-44b5-a63b-c624c7b9c8bd)
+
 
 # 설치 및 실행방법
 - pip install -r requirements.txt
