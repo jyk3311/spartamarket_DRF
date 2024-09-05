@@ -18,7 +18,7 @@ DB : SQlite
 - python manage.py runserver
 # RESTful API 명세서
 # Permission 이슈
-class내에 permission_classes를 설정할때, GET과 POST 함수를 분리해서 permission을 주지 못하는 이슈
-https://zhelddustmq.tistory.com/129
+- class내에 permission_classes를 설정할때, GET과 POST 함수를 분리해서 permission을 주지 못하는 이슈
+- https://zhelddustmq.tistory.com/129
 # 기능 상세
 
