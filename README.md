@@ -3,8 +3,9 @@
 마켓 백엔드 기능을 구현(by. DRF)
 # 개발기간
 # 개발환경
-Python : Django DRF
-DB : SQlite
+<img src="https://img.shields.io/badge/sqlite-#003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-#092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
 # ERD
 ![image](https://github.com/user-attachments/assets/a911c441-c2ae-493c-9eb7-08ff54a3fd0c)
 ![image](https://github.com/user-attachments/assets/dd391e1e-80a2-478a-b12a-20f98ccb3a20)
